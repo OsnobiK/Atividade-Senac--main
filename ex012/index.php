@@ -35,6 +35,7 @@
             $g++; //Atribui o valor de $g, basicamente g+1, tambem pode ser escrito como "$g+1;"
         } while ($g <= 5);
     }
+
     ?>
 </body>
 </html>
